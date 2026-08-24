@@ -19,7 +19,7 @@ website:
               text: "Funding"
         right:
         - text: "Register Here!"
-          href: "YOUR_GOOGLE_FORM_LINK_HERE" # Replace with your actual form URL
+          href: "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=PUrf3MDQY0qUz3gZgSSb5TSsRhgHAaxEneI2iwjKTvdUMzI4SDBQTTREVkgyT0tBQzRHUUlEQUM3Ni4u" # Replace with your actual form URL
 
 format:
     html:

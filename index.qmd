@@ -34,5 +34,5 @@ The symposium will put the emphasis on the technology and systems required for l
 ## Registration is Now Open!
 To secure your spot and receive your automatic calendar blocker invitation, please complete our form.
 
-<a href="YOUR_GOOGLE_FORM_LINK_HERE" class="btn btn-primary btn-lg" target="_blank" role="button"> Register for the Symposium</a>
+<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=PUrf3MDQY0qUz3gZgSSb5TSsRhgHAaxEneI2iwjKTvdUMzI4SDBQTTREVkgyT0tBQzRHUUlEQUM3Ni4u" class="btn btn-primary btn-lg" target="_blank" role="button"> Register for the Symposium</a>
 :::
