@@ -1,0 +1,21 @@
+# Venue
+
+## Location
+
+The entire symposium, including all presentations, coffee breaks, and networking drinks, will take place in a single room:
+
+**UMC Utrecht, Stratenum Building / Room: Research Café**
+Universiteitsweg 100
+3584 CG Utrecht
+Netherlands
+
+## How to find the room
+
+Once you enter the Stratenum building, turn left and the room location will be indicated.
+
+::: {.callout-tip icon=falseAppearance}
+## Registration is Now Open!
+To secure your spot and receive your automatic calendar blocker invitation, please complete our form.
+
+<a href="YOUR_GOOGLE_FORM_LINK_HERE" class="btn btn-primary btn-lg" target="_blank" role="button"> Register for the Symposium</a>
+:::

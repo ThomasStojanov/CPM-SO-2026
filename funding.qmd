@@ -1,0 +1,25 @@
+# Acknowledgments and grant support
+
+This symposium is an open-access academic dissemination event organized as part of an active research project. The coordination, development, and hosting of this event are supported by time allocations funded under the following research grant:
+
+- **Project Title:** Clinical Prediction Models for Surgical Outcomes
+- **Funding Agency:** Swiss National Science Foundation (SNSF)
+- **Grant Number:** [`235046`](https://data.snf.ch/grants/person/785346)
+- **Host Institution:** UMC Utrecht / Universitätsspital Basel
+
+We are deeply grateful to our funding bodies for enabling the dedicated research time required to bring this international network together.
+
+This symposium is made possible through the financial support and resources provided by our partner institutions and funding agencies.
+
+Our core funding allows this event to remain completely **free of charge for all registered academic and clinical attendees**.
+
+### Organizing & Supporting Institutions
+
+- **UMC Utrecht**, Julius Center, Team Datascience & Biostatistics
+
+::: {.callout-tip icon=falseAppearance}
+## Registration is Now Open!
+To secure your spot and receive your automatic calendar blocker invitation, please complete our form.
+
+<a href="YOUR_GOOGLE_FORM_LINK_HERE" class="btn btn-primary btn-lg" target="_blank" role="button"> Register for the Symposium</a>
+:::

@@ -1,0 +1,28 @@
+project:
+    type: website
+    output-dir: docs
+
+website:
+    title: "CPMSO 2026"
+    description: "Research symposium website"
+    navbar: 
+        left:
+            - href: index.qmd
+              text: "Home"
+            - href: program.qmd
+              text: "Program"
+            - href: venue.qmd
+              text: "Venue"
+            - href: register.qmd
+              text: "Registration"
+            - href: funding.qmd
+              text: "Funding"
+        right:
+        - text: "Register Here!"
+          href: "YOUR_GOOGLE_FORM_LINK_HERE" # Replace with your actual form URL
+
+format:
+    html:
+        theme: cosmo
+        toc: true
+        toc-depth: 3

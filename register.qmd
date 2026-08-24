@@ -1,0 +1,10 @@
+# Register now
+
+The number of available seats are limited, so we invite you to register as soon as possible.
+
+::: {.callout-tip icon=falseAppearance}
+## Registration is Now Open!
+To secure your spot and receive your automatic calendar blocker invitation, please complete our form.
+
+<a href="YOUR_GOOGLE_FORM_LINK_HERE" class="btn btn-primary btn-lg" target="_blank" role="button"> Register for the Symposium</a>
+:::

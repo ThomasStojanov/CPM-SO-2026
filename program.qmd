@@ -1,0 +1,22 @@
+---
+title: "Symposium program"
+---
+
+Please note that all times are listed in **Central European Summer Time (CEST)**. All sessions, presentations, and breaks will take place in the UMC Utrecht Research Café, see Venue for more details.
+
+### Program
+
+TBA
+
+::: {.callout-info}
+### Attendee Information
+During the closing remarks at **16:50**, we will distribute a short feedback survey and discuss further collaborations. If you cannot attend the closing block but want to register your collaboration interest, please contact Thomas Stojanov directly.
+:::
+
+
+::: {.callout-tip icon=falseAppearance}
+## Registration is Now Open!
+To secure your spot and receive your automatic calendar blocker invitation, please complete our form.
+
+<a href="YOUR_GOOGLE_FORM_LINK_HERE" class="btn btn-primary btn-lg" target="_blank" role="button"> Register for the Symposium</a>
+:::
