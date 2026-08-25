@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Welcome to CPMSO 2026",
     "section": "",
-    "text": "The website hosts information related to the research symposium entitled: “Clinical Prediction Models for Surgical Outcomes in Europe – Status and Future Developments”."
+    "text": "The website hosts information related to the research symposium entitled: “Clinical Prediction Models for Surgical Outcomes in Europe – Status and Future Developments”.\n\nEvent Flyer\n\n\n\n📥 Download Flyer Image\n\n\n\nContext\nThe European Commission suggested the use of algorithms to predict health outcomes, as one of the plausible strategies to improve the overall efficiency and effectiveness of European healthcare systems.\nPredictive analytic tools support the establishment of an evidence-based and shared decision-making process, by predicting individual’s risks of adverse events or poor outcomes. This is particularly relevant for commonly performed surgical procedures for which up to one in ten patients may not be satisfied with postoperative functional outcomes, such as total knee arthroplasty, total hip arthroplasty, shoulder surgery or hand surgery.\nHowever, to generate value, clinical prediction models require the achievement of several steps, such as a proper data infrastructure, careful model conception, development, validation and navigation through the regulatory landscape. Indeed, since 2021, the European Union (EU) in its artificial intelligence (AI) act, classified decision-support system tools involving outcome prediction models in healthcare, as high-risk AI-based systems. This implies that developers need to comply with high safety, quality and transparency standards.\nThis research symposium will invite leading experts in that field to learn from each other, with the subsequent objective to establish potential collaborations and move forward research and tools in the field of clinical prediction models for surgical outcomes.\n\n\nSocietal Impact\nThe developed knowledge will be essential to bring computer scientists, data scientists, epidemiologists and clinicians closer, for a better quality of care. As a societal challenge, surgical procedures are common and will increase in numbers with the ageing of European populations. Moreover, surgical procedures present specific significant challenges, such as the use and report of functional outcomes and patient-reported outcome measures (PROMs).\nThe symposium will put the emphasis on the technology and systems required for large-scale clinical prediction models to generate value. The symposium will therefore cover key steps from model conceptualization to model implementation, deployment (and certification). By describing the necessary data infrastructure and analysing how clinical prediction models—whether they are developed by more classical regression or modern AI approaches—comply as high-risk systems under the EU AI Act, the symposium will directly support the work of applied researchers.\n\n\nProgram\nCheck out the Program page for full program.\n\n\nRegistration\n\n\n\n\n\n\nTipRegistration is Now Open!\n\n\n\nTo secure your spot and receive your automatic calendar blocker invitation, please complete our form.\n Register for the Symposium\n\n\n\n\nFunding\nThis symposium is made possible through the financial support and resources provided by our partner institutions and funding agencies. Check out Funding page."
   },
   {
     "objectID": "program.html",
     "href": "program.html",
     "title": "Symposium program",
     "section": "",
-    "text": "Please note that all times are listed in Central European Summer Time (CEST). All sessions, presentations, and breaks will take place in the UMC Utrecht Research Café, see Venue for more details.\n\nProgram\nTBA\n\n\nAttendee Information\nDuring the closing remarks at 16:50, we will distribute a short feedback survey and discuss further collaborations. If you cannot attend the closing block but want to register your collaboration interest, please contact Thomas Stojanov directly.\n\n\n\n\n\n\n\nTipRegistration is Now Open!\n\n\n\nTo secure your spot and receive your automatic calendar blocker invitation, please complete our form.\n Register for the Symposium"
+    "text": "Please note that all times are listed in Central European Summer Time (CEST). All sessions, presentations, and breaks will take place in the UMC Utrecht Research Café, check out Venue for more details.\n\nFull Program\nTBA\n\n\nAttendee Information\nDuring the closing remarks at 16:50, we will distribute a short feedback survey and discuss further collaborations.\n\n\nRegister\n\n\n\n\n\n\nTipRegistration is Now Open!\n\n\n\nTo secure your spot and receive your automatic calendar blocker invitation, please complete our form.\n Register for the Symposium"
   },
   {
     "objectID": "venue.html",
@@ -25,14 +25,14 @@
     "href": "funding.html",
     "title": "Acknowledgments and grant support",
     "section": "",
-    "text": "Acknowledgments and grant support\nThis symposium is an open-access academic dissemination event organized as part of an active research project. The coordination, development, and hosting of this event are supported by time allocations funded under the following research grant:\n\nProject Title: Clinical Prediction Models for Surgical Outcomes\nFunding Agency: Swiss National Science Foundation (SNSF)\nGrant Number: 235046\nHost Institution: UMC Utrecht / Universitätsspital Basel\n\nWe are deeply grateful to our funding bodies for enabling the dedicated research time required to bring this international network together.\nThis symposium is made possible through the financial support and resources provided by our partner institutions and funding agencies.\nOur core funding allows this event to remain completely free of charge for all registered academic and clinical attendees.\n\nOrganizing & Supporting Institutions\n\nUMC Utrecht, Julius Center, Team Datascience & Biostatistics\n\n\n\n\n\n\n\nTipRegistration is Now Open!\n\n\n\nTo secure your spot and receive your automatic calendar blocker invitation, please complete our form.\n Register for the Symposium"
+    "text": "This symposium is an open-access academic dissemination event organized as part of an active research project. We are deeply grateful to our funding bodies for enabling the dedicated research time required to bring this international network together.\nThis symposium is made possible through the financial support and resources provided by our partner institutions and funding agencies.\nOur core funding allows this event to remain completely free of charge for all registered academic and clinical attendees.\n\n\nThe coordination, development, and hosting of this event are supported by time allocations funded under the following research grant:\n\nProject Title: Clinical Prediction Models for Surgical Outcomes\nFunding Agency: Swiss National Science Foundation (SNSF)\nGrant Number: 235046\nHost Institution: UMC Utrecht / Universitätsspital Basel"
   },
   {
     "objectID": "register.html",
     "href": "register.html",
     "title": "Register now",
     "section": "",
-    "text": "Register now\nThe number of available seats are limited, so we invite you to register as soon as possible.\n\n\n\n\n\n\nTipRegistration is Now Open!\n\n\n\nTo secure your spot and receive your automatic calendar blocker invitation, please complete our form.\n Register for the Symposium"
+    "text": "Register now\nThe registration is free-of-charge and includes lunch. But, please note that the number of available seats are limited, so we invite you to register as soon as possible.\n\n\n\n\n\n\nTipRegistration is Now Open!\n\n\n\nTo secure your spot and receive your automatic calendar blocker invitation, please complete our form.\n Register for the Symposium"
   },
   {
     "objectID": "program.html#symposium-schedule",
@@ -61,5 +61,12 @@
     "title": "Welcome to CPMSO 2026",
     "section": "Event Flyer",
     "text": "Event Flyer\n\n\n\n📥 Download Flyer Image"
+  },
+  {
+    "objectID": "funding.html#swiss-national-science-foundation",
+    "href": "funding.html#swiss-national-science-foundation",
+    "title": "Acknowledgments and grant support",
+    "section": "",
+    "text": "The coordination, development, and hosting of this event are supported by time allocations funded under the following research grant:\n\nProject Title: Clinical Prediction Models for Surgical Outcomes\nFunding Agency: Swiss National Science Foundation (SNSF)\nGrant Number: 235046\nHost Institution: UMC Utrecht / Universitätsspital Basel"
   }
 ]

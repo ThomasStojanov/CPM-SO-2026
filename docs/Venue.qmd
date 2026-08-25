@@ -1,6 +1,17 @@
-# Register now
+# Venue
 
-The registration is free-of-charge and includes lunch. But, please note that the number of available seats are limited, so we invite you to register as soon as possible.
+## Location
+
+The entire symposium, including all presentations, coffee breaks, and networking drinks, will take place in a single room:
+
+**UMC Utrecht, Stratenum Building / Room: Research Café**
+Universiteitsweg 100
+3584 CG Utrecht
+Netherlands
+
+## How to find the room
+
+Once you enter the Stratenum building, turn left and the room location will be indicated.
 
 ::: {.callout-tip icon=falseAppearance}
 ## Registration is Now Open!
