@@ -7,7 +7,7 @@ The website hosts information related to the research symposium entitled: "Clini
 
 <br>
 
-<a href="images/flyer.png" class="btn btn-outline-primary" download="Symposium_Flyer.png">📥 Download Flyer Image</a>
+<a href="images/2026-flyer.png" class="btn btn-outline-primary" download="Symposium_Flyer.png">📥 Download Flyer Image</a>
 :::
 
 # Context
