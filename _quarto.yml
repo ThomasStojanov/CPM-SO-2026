@@ -3,7 +3,7 @@ project:
     output-dir: docs
 
 website:
-    title: "CPMSO 2026"
+    title: "CPM-SO 2026"
     description: "Research symposium website"
     navbar: 
         left:

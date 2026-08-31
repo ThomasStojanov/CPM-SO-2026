@@ -1,7 +1,3 @@
----
-title: Welcome to CPMSO 2026
----
-
 The website hosts information related to the research symposium entitled: "Clinical Prediction Models for Surgical Outcomes in Europe – Status and Future Developments". 
 
 # Event Flyer
