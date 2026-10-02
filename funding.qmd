@@ -15,6 +15,15 @@ The coordination, development, and hosting of this event are supported by time a
 - **Grant Number:** [`235046`](https://data.snf.ch/grants/person/785346)
 - **Host Institution:** UMC Utrecht / Universitätsspital Basel
 
+## NWO - Scientific Meetings and Consultations 2026
+
+The organization of this event is supported by funding from NWO - Scientific Meetings and Consultations 2026 under the following grant:
+
+- **Project title:** Clinical Prediction Models for Surgical Outcomes in Europe: Status and Future Developments
+- **Funding Agency**: NWO
+- **Grant Number**: [23932](https://www.nwo.nl/en)
+- **Host Institution**: UMC Utrecht
+
 # Organizing & Supporting Institutions
 
 - **UMC Utrecht**, Julius Center, Team Datascience & Biostatistics

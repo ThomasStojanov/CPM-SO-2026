@@ -3,11 +3,11 @@ The website hosts information related to the research symposium entitled: "Clini
 # Event Flyer
 
 ::: {.text-center}
-![](images/2026-flyer-1100-1800.png){fig-alt="Event Flyer" width=80% max-width=600px}
+![](images/2026-flyer.png){fig-alt="Event Flyer" width=80% max-width=600px}
 
 <br>
 
-<a href="images/2026-flyer-1100-1800.png" class="btn btn-outline-primary" download="Symposium_Flyer.png">📥 Download Flyer Image</a>
+<a href="images/2026-flyer.png" class="btn btn-outline-primary" download="Symposium_Flyer.png">📥 Download Flyer Image</a>
 :::
 
 # Context

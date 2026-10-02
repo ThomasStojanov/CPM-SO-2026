@@ -7,11 +7,11 @@ Please note that all times are listed in **Central European Summer Time (CEST)**
 # Full Program
 
 ::: {.text-center}
-![](data/program/symposium_program.pdf){fig-alt="Event Flyer" width=80% max-width=600px}
+![](data/program/symposium_program_v2.pdf){fig-alt="Event Flyer" width=80% max-width=600px}
 
 <br>
 
-<a href="data/program/symposium_program.pdf" class="btn btn-outline-primary" download="Symposium_Program.pdf">📥 Download Symposium Program</a>
+<a href="data/program/symposium_program_v2.pdf" class="btn btn-outline-primary" download="Symposium_Program_v2.pdf">📥 Download Symposium Program</a>
 :::
 
 ::: {.callout-info}
